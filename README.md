@@ -32,3 +32,5 @@ F7 // see the history of commands
 
 history // see all the commands you have run. || history > path/to/file // save it to a file
 $ !518 //Using the number you can re-execute the command with an exclamation mark // source internet https://stackoverflow.com/questions/7435452/history-or-log-of-commands-executed-in-git/14417188
+
+mkdir <name of the folder> // this command creates a new folder with the name you provide.
