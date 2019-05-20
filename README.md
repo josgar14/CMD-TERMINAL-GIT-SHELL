@@ -4,7 +4,13 @@ A list of commands
 
 Git commands I Know
 
-git status // gives you the status of your files in git. 
+git status // gives you the status of your files in git.
+
+git init// to initialize a repository.
+
+git remote add origin <url of the repository> // to add a remote.
+  
+git push -u origin master// to push the code to the cloud.
 
 git checkout <name of a branch> // lets you change branches.
 
