@@ -4,6 +4,8 @@ A list of commands
 
 Git commands I Know
 
+git diff // shows you the changes you've mede to files.
+
 git branch -d <branch_name> //deletes a local branch.
 
 git branch -D <branch_name>// the uppercase d means a forced deletion.
