@@ -6,6 +6,8 @@ Git commands I Know
 
 type nul > <nameOfTheFile.txt "or any extention">// to create a new file in cmd.
 
+if you want to run two or more commands separate them with <&&>.
+
 type <name of the file>// to show the content of the file in cmd.
   
 Open a file// to open a file simply type it's <name.txt>.
