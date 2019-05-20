@@ -4,6 +4,13 @@ A list of commands
 
 Git commands I Know
 
+git branch -d <branch_name> //deletes a local branch.
+
+git branch -D <branch_name>// the uppercase d means a forced deletion.
+
+git push --delete <remote_name> <branch_name>// deletes a remote branch.
+git push <remote_name> --delete <branch_name>// deletes a remote branch.
+
 type nul > <nameOfTheFile.txt "or any extention">// to create a new file in cmd.
 
 if you want to run two or more commands separate them with <&&>.
