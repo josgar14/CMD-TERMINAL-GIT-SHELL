@@ -59,7 +59,7 @@ git stash //save all modifications in stash.
 
 git stash pop// retrieve the modifications previously staged.
 
-npm install or npm i// to install dependencies.
+npm install or npm i// to install dependencies and creates a package.json.
 
 git show stash// to see what is in stash.
 
