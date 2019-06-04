@@ -67,6 +67,8 @@ ls // to see the files in the directory.
 
 dir // to see the directory.
 
+npm init // Initializes a npm in a project as it's manager.
+
 curl <http://> // command to make a http request.
 
 tree//see a visual representation in a tree format of directories. you can use tree /a /f > <nameoffile.txt> // and it shows more detailed information and saves it to a file.
