@@ -1,3 +1,8 @@
+// organizing commands, need to fix this md file to proper sintax.
+cmd
+git
+npm
+
 # CMD-TERMINAL-GIT-SHELL
 A list of commands 
 
