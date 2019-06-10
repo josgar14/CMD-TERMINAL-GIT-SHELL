@@ -1,4 +1,3 @@
-// todo: organizing commands, need to fix this md file to proper sintax.
 # cmd
 
   * type nul > <nameOfTheFile.txt "or any extention">// to create a new file in cmd.
