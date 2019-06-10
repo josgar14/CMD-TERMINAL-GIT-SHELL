@@ -1,3 +1,5 @@
+# visual studio code
+
 # cmd
 
   * type nul > <nameOfTheFile.txt "or any extention">// to create a new file in cmd.
