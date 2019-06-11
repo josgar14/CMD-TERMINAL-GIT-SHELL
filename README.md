@@ -51,6 +51,8 @@
 # npm
 
   * npm install or npm i// to install dependencies and creates a package.json.
+  * npm init // initializes npm and creates package.json.
+  * npm install --save --save-exact <name of the package>
 
 # windows
 
@@ -59,4 +61,3 @@
   * win+shift+s // Take a screenshot.
   * win+p // project. there you can configure your screens.
   * win+spacebar // change keyboard language.
-
