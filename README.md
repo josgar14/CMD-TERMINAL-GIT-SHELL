@@ -38,6 +38,7 @@
   * git reset <hash> --hard// rever commits and discard all changes dangerous command.
   * git branch <branch_name> // create a branch.
   * git stash //save all modifications in stash.
+  * git stash apply// apply the changes you have stashed.
   * git stash pop// retrieve the modifications previously staged.
   * git show stash// to see what is in stash.
   * history // see all the commands you have run. || history > path/to/file // save it to a file
