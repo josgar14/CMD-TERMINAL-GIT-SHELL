@@ -61,3 +61,4 @@
   * win+shift+s // Take a screenshot.
   * win+p // project. there you can configure your screens.
   * win+spacebar // change keyboard language.
+  * shift+F10 // right click alternative when you're too lazy to reach your mouse 😂.
