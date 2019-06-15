@@ -44,6 +44,7 @@
   * history // see all the commands you have run. || history > path/to/file // save it to a file
   * !518 //Using the number you can re-execute the command with an exclamation mark // more information on the link bellow 
   https://stackoverflow.com/questions/7435452/history-or-log-of-commands-executed-in-git/14417188
+  * git remote show origin // to see information of the remote of the repository.
   
 
 
