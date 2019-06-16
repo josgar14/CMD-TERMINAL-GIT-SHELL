@@ -15,6 +15,7 @@
   * tree//see a visual representation in a tree format of directories. you can use tree /a /f > *nameoffile.txt* // and it shows more detailed information and saves it to a file.
   * F7 // see the history of commands.
   * mkdir *name of the folder* // this command creates a new folder with the name you provide.
+  * curl *url* // to make an http request.
 
 # git
 
@@ -52,6 +53,8 @@
   * npm install or npm i// to install dependencies and creates a package.json.
   * npm init // initializes npm and creates package.json.
   * npm install --save --save-exact *name of the package*
+  * npm i @angular/cli -g // to install or update angular cli.
+  * ng generate module app-routing --flat --module=app // add routing to an Angular project.
 
 # windows
 
@@ -61,3 +64,4 @@
   * win+p // project. there you can configure your screens.
   * win+space-bar // change keyboard language.
   * shift+F10 // right click alternative when you're too lazy to reach your mouse 😂.
+  * cntl+space // select/deselect elements in explorer.
