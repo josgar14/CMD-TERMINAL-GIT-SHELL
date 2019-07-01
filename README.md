@@ -5,10 +5,12 @@
   * If you want to run two or more commands separate them with *&&*.
   * Open a file// to open a file simply type it's *name.txt*.
   * rm -rf node_modules// to remove the node_modules folder.
-  * cat // to see the content of a file.
+  * cat *name of the file.txt* // to see the content of a file.
   * echo "Hola Mundo" > Hola.txt // to create and write in a file.
   * echo "Hola Mundo" >> Hola.txt // to add text to the file on top of the existing.
   * ls // to see the files in the directory.
+  * ls -a // see the files in directory including hidden files.
+  * ls -lah // see files in a list with detailed information.
   * dir // to see the directory.
   * npm init // Initializes a npm in a project as it's manager.
   * curl *http://* // command to make a http request.
@@ -16,6 +18,8 @@
   * F7 // see the history of commands.
   * mkdir *name of the folder* // this command creates a new folder with the name you provide.
   * curl *url* // to make an http request.
+  * pwd // tells you where you are, print work directory.
+  * cd ~ // navigates to the home directory.
 
 # git
 
@@ -47,6 +51,8 @@
   * git remote show origin // to see information of the remote of the repository.
   * git remove rm *origin or name of the destination* // to remove a remote URL from your repository.
   * git remote -v // so see the remote URL.
+  * git remote -vv // show me the remote URL.
+  * touch *name of file* // to create a new file with the name provided.
   
 # npm
 
