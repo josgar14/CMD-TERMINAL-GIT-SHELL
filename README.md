@@ -55,6 +55,7 @@
   * npm install --save --save-exact *name of the package*
   * npm i @angular/cli -g // to install or update angular cli.
   * ng generate module app-routing --flat --module=app // add routing to an Angular project.
+  * npm info *name of the package* // gives you information on the package you provide.
 
 # windows
 
