@@ -62,6 +62,7 @@
   * npm i @angular/cli -g // to install or update angular cli.
   * ng generate module app-routing --flat --module=app // add routing to an Angular project.
   * npm info *name of the package* // gives you information on the package you provide.
+  * npm list -g --depth 0 // to list all the packages installed globally (without the -g option it only shows the current directory’s packages) — depth 0 / — depth=0: avoid including every package’s dependencies in the tree view.
 
 # windows
 
