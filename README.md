@@ -53,6 +53,8 @@
   * git remote -v // so see the remote URL.
   * git remote -vv // show me the remote URL.
   * touch *name of file* // to create a new file with the name provided.
+  * git config --get remote.origin.url // get the url of the remote repository configuration.
+  * git remote show origin // Open the link to the remote repository, needs internet.
   
 # npm
 
